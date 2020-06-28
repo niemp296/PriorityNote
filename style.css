@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple');
 
 * {
   margin: auto;
@@ -34,7 +35,7 @@ h1 {
 h2 {
   font-size: 2.8vw;
   padding-bottom: 15px;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 
@@ -124,11 +125,10 @@ section h2{
   animation: fade-in;
   animation-duration: 8s;
   /*font-family: 'Futura', "Trebuchet MS", Arial, sans-serif;*/
-  font-family: Raleway;
 }
 
-.title-text h1 {
-  font-family: Raleway;
+.title-text h2 {
+  font-family: "Homemade Apple";
   letter-spacing: 0.05em;
   padding-left: 0;
 }
